@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="instruction">Make sure your trajectory is clear</string>
+    <string name="app_name">Boomerang</string>
+    <string name="warning">WARNING</string>
+    <string name="toast">Boomerang Mode ON</string>
+    <string name="instructions">Instructions</string>
+    <string name="step1">Go outside</string>
+    <string name="step2">Enable Boomerang Mode</string>
+    <string name="step3">Throw phone and enjoy freedom!</string>
+
+</resources>
